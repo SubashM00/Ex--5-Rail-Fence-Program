@@ -19,8 +19,8 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 # PROGRAM
-Reg No: 212223040210,
-Developed by: Subash M
+#  Reg No: 212223040210
+#  Developed by: Subash M
 ```
 
 #include <stdio.h>
