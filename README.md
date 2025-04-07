@@ -61,5 +61,6 @@ int main() {
 }
 ```
 # OUTPUT
+![Screenshot 2025-04-07 082502](https://github.com/user-attachments/assets/b2154510-bdc4-4429-bb73-1708a24d7272)
 
 # RESULT
